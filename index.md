@@ -7,3 +7,7 @@ my_cat = "Private Investocat"
 if my_cat == "Private Investocat":
   print(my_cat + "is really cool!")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
